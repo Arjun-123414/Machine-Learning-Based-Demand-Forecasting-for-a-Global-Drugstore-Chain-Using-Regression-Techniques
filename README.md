@@ -1,5 +1,5 @@
 ## Project Details
-This repository contains files related to an end-to-end machine learning project, including data preprocessing, exploratory data analysis (EDA), model training, and packaging the model for deployment.
+This repository contains files related to the machine learning project, including data preprocessing, exploratory data analysis (EDA), model training, and packaging the model for deployment.
 
 ## Folder Structure
 
