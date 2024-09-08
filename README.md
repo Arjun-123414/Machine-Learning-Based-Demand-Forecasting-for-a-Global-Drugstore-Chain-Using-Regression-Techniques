@@ -1,8 +1,9 @@
 ## Project Details
 This repository contains files related to an end-to-end machine learning project, including data preprocessing, exploratory data analysis (EDA), model training, and packaging the model for deployment.
 
-Project Structure
-bash
+## Folder Structure
+
+```bash
 Copy code
 ├── Cleaned_Data and Training
 │   ├── Cleaned.csv               # Preprocessed and cleaned dataset
